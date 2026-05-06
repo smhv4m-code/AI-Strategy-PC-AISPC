@@ -1,5 +1,8 @@
 # Cost Curve & Pricing Strategy
 
+# Packaing Decision Model
+Leader --> Filler --> Killer
+
 ## Cost Model
 
 | Cost Category | Per-User/Month | Notes |
@@ -39,3 +42,6 @@
 **Before (traditional SaaS):**
 **After (AI-enabled):**
 **Net margin shift:**
+
+
+Pricing Model
