@@ -1,7 +1,11 @@
 # Cost Curve & Pricing Strategy
 
 # Packaing Decision Model
-Leader --> Filler --> Killer
+Leader:
+Filler:
+Killer:
+Killer Usage %: 
+Bundle or Ad-On:
 
 ## Cost Model
 
